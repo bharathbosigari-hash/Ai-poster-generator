@@ -1,0 +1,16 @@
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated output
+rendered_poster.png
